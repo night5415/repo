@@ -17,6 +17,10 @@
     "child": 0,
     "car": 2,
     "truck": false,
+<<<<<<< HEAD
     "default": 8888
+=======
+    "default": 9999
+>>>>>>> mom
   }
 }
