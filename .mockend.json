@@ -8,6 +8,7 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "Post",
+    "bob": 1
   }
 }
