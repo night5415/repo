@@ -12,6 +12,7 @@
     "mike": 1,
     "dad": false,
     "bob": 1,
-    "mom": true
+    "mom": true,
+    "child": undefined
   }
 }
