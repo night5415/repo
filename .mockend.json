@@ -10,6 +10,7 @@
     "body": "string",
     "post": "Post",
     "bob": 1,
-    "mike": 1
+    "mike": 1,
+    "mom": true
   }
 }
