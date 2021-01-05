@@ -13,7 +13,8 @@
     "dad": false,
     "bob": 1,
     "mom": true,
-    "child": undefined,
-    "car": 2
+    "child": 0,
+    "car": 2,
+    "truck" : false
   }
 }
