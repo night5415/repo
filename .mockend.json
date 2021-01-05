@@ -8,8 +8,10 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Post",
+    "post": "Post", 
     "mike": 1,
-    "dad": false
+    "dad": false,
+    "bob": 1,
+    "mike": 1 
   }
 }
