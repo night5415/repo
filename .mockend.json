@@ -16,6 +16,7 @@
     "bus": 2,
     "child": 0,
     "car": 2,
-    "truck": false
+    "truck": false,
+    "default": 9999
   }
 }
